@@ -18,7 +18,7 @@ import {
   EmojiCategory,
   EmojiData,
   EmojiEvent,
-} from '@ctrl/ngx-emoji-mart/ngx-emoji';
+} from '@kincis/kk-emoji-mart/ngx-emoji';
 import { CategoryComponent } from './category.component';
 import { EmojiFrequentlyService } from './emoji-frequently.service';
 import { PreviewComponent } from './preview.component';

@@ -1,6 +1,6 @@
 import { async, TestBed } from '@angular/core/testing';
 
-import { MdoButtonModule } from '@ctrl/ngx-github-buttons';
+import { MdoButtonModule } from '@kincis/ngx-github-buttons';
 
 import { PickerModule } from '../lib/picker/picker.module';
 import { AppComponent } from './app.component';
