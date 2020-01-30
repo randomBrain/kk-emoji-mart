@@ -1,6 +1,6 @@
 {
-  "name": "@kk/kk-emoji-mart",
-  "version": "0.0.0-placeholder",
+  "name": "@kincis/kk-emoji-mart",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -16,7 +16,7 @@
     "ghpages": "ng build --prod --no-progress",
     "semantic-release": "cd dist/packages-dist && semantic-release"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/common": "8.2.14",
     "@angular/compiler": "8.2.14",
@@ -61,12 +61,22 @@
     "tslint": "5.20.0",
     "typescript": "3.5.3"
   },
-  "repository": "randomBrain/kk-emoji-mart",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randomBrain/kk-emoji-mart.git"
+  },
   "engines": {
     "npm": ">= 6",
     "node": ">= 8"
   },
   "release": {
     "branch": "master"
-  }
+  },
+  "description": "<img align=\"right\" width=\"200\" src=\"https://raw.githubusercontent.com/typectrl/ngx-emoji-mart/master/misc/preview.png\" />",
+  "bugs": {
+    "url": "https://github.com/randomBrain/kk-emoji-mart/issues"
+  },
+  "homepage": "https://github.com/randomBrain/kk-emoji-mart#readme",
+  "main": "karma.conf.js",
+  "author": ""
 }
