@@ -1,5 +1,5 @@
 {
-  "name": "@ctrl/ngx-emoji-mart",
+  "name": "@kk/kk-emoji-mart",
   "version": "0.0.0-placeholder",
   "license": "MIT",
   "scripts": {
@@ -61,7 +61,7 @@
     "tslint": "5.20.0",
     "typescript": "3.5.3"
   },
-  "repository": "TypeCtrl/ngx-emoji-mart",
+  "repository": "randomBrain/kk-emoji-mart",
   "engines": {
     "npm": ">= 6",
     "node": ">= 8"
